@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: lua file header
+# key: fileheader
+# binding: direct-keybinding
+# --
+-- Author: Ken Zhang(kennir@gmail.com)
+-- Date: `(current-time-string)`
+-- Description: $1

@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: lua member function
+# key: memberfunc
+# binding: direct-keybinding
+# --
+function $1:$2($3)
+    $4
+end
