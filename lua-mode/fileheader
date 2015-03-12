@@ -1,6 +1,6 @@
 # -*- mode: snippet; require-final-newline: nil -*-
-# name: lua file header
-# key: fileheader
+# name: file header
+# key: fhdr
 # binding: direct-keybinding
 # --
 -- Author: Ken Zhang(kennir@gmail.com)

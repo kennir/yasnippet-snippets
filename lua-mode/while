@@ -1,8 +1,8 @@
 # -*- mode: snippet; require-final-newline: nil -*-
-# name: lua local function 
-# key: localfunc
+# name: while
+# key: while
 # binding: direct-keybinding
 # --
-local function $1($2)
-    $3
+while $1 do
+    $2
 end

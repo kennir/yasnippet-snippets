@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: ifelse
+# key: ifelse
+# binding: direct-keybinding
+# --
+if $1 then
+    $2
+else
+    $3
+end
